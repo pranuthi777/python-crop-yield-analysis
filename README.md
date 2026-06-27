@@ -1,4 +1,4 @@
-# UNP_PROJECT_PREDICTIVE_ANALYSIS_OF_CROP_YIELD
+# python - Crop Yield ML model
 Capstone Project Summary: Crop Yield Prediction
 
 The objective of this project was to develop a predictive model to estimate crop yield based on key factors such as area and crop type. The dataset was first preprocessed, including encoding of categorical features (Area and Item) into numeric values using LabelEncoder.
